@@ -33,6 +33,34 @@ Naukri Website
 - SQL
 - Git & GitHub
 
+## 📊 Power BI Dashboard
+
+The cleaned job market data was visualized using Power BI to identify important job market trends and insights.
+
+### Dashboard Preview
+
+![Job Market Intelligence Dashboard](dashboard.png)
+
+### Key Visualizations
+
+#### 📍 Job Postings by Location
+![Job Postings by Location](location.png)
+
+#### 💰 Salary Analysis
+![Salary Analysis](salary.png)
+
+#### 💻 Top Skills in Job Market
+![Top Skills](skills.png)
+
+#### 🏢 Jobs by Company
+![Jobs by Company](jobs_by_company.png)
+
+### Power BI File
+
+The complete Power BI dashboard is available here:
+
+[Download Power BI Dashboard](Job_Market_Intelligence.pbix)
+
 ## 📂 Project Structure
 
 ```text
